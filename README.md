@@ -25,10 +25,10 @@ Run the Streamlit app:
 streamlit run app.py
 Then, open the provided localhost URL in your browser and enter a YouTube video link to transcribe, summarize, and generate study questions.
 
-##💡 Use Cases
+## 💡 Use Cases
 📖 Students – Quickly summarize and review lecture videos.
 🎓 Educators – Generate quizzes and study material from video content.
 📚 Researchers – Extract key insights from long discussions or presentations.
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
